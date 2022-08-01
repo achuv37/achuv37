@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**achuv37/achuv37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some about me: 
 
@@ -12,4 +11,4 @@ Here are some about me:
 - 📫 Check out : ... [my portfolio](https://achuv37.github.io/react-portfolio-av/)
 - You can find my Linkedin here: ... [Linkedin](http://linkedin.com/in/aswathy-venugopalapillai-46339414a)
 
--->
+
