@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
+This is about me !
 
-Here are some about me: 
 
 - 🔭 I’m a Full-Stack web developer and a passionate web application designer.
 - 🌱 I’m currently gaining hands on experience developing interactive web applications.
