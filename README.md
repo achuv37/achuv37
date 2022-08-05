@@ -7,5 +7,5 @@ About Me !
 - Skills: ... HTML, CSS, JavaScript, Bootstrap, Materialize CSS, Node.js, Express.js, SQL,Sequelize,MongoDB,Mongoose, React.js.
 - Please Check out : [My Portfolio](https://achuv37.github.io/react-portfolio-av/)
 - You can find my Linkedin here:  [Linkedin](http://linkedin.com/in/aswathy-venugopalapillai-46339414a)
-- My gmail address is : achuv37@gmail.com
+- My Email : achuv37@gmail.com
 
